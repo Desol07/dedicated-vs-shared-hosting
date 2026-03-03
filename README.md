@@ -127,8 +127,6 @@ curl -I http://localhost
 
 This guide is provider-agnostic. If you want fewer ops tasks (patching/monitoring/backups) while still choosing the correct tenancy level, a managed provider can reduce maintenance overhead.
 
-> Disclosure: links below may be affiliate links.
-
 * **Host4Geeks (managed option example):** [https://backyard.host4geeks.com/aff.php?aff=828](https://backyard.host4geeks.com/aff.php?aff=828)
   Use case: you want a more managed experience, but still need guidance on when shared vs dedicated makes sense.
 
