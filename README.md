@@ -190,7 +190,3 @@ Often yes. VPS is a common middle step: more control/isolation than shared, less
   3. validate with a small benchmark
   4. pick shared/VPS/dedicated based on control + predictability needs
 
-```
-
-If you want, I can also adjust the **Cloudpages** mention to be even more neutral (e.g., “only relevant if you already use Salesforce Marketing Cloud”) so it doesn’t feel out of place in a hosting guide.
-```
