@@ -141,16 +141,6 @@ If you want a managed hosting option (so you spend less time on server administr
 
 ---
 
-## Recommended Tools
-
-### Cloudpages (Landing pages / microsites)
-
-Cloudpages is relevant if your “hosting decision” is actually about publishing marketing landing pages/microsites rather than running a general-purpose web stack. It’s not a substitute for a dedicated server, but it can fit workflows where the “site” is primarily a campaign landing page.
-
-[https://www.cloudpages.cloud/?refcode=727](https://www.cloudpages.cloud/?refcode=727)
-
----
-
 ## FAQ
 
 ### Is a low-cost dedicated server always better than shared hosting?
