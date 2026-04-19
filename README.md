@@ -127,7 +127,7 @@ curl -I http://localhost
 
 This guide is provider-agnostic. If you want fewer ops tasks (patching/monitoring/backups) while still choosing the correct tenancy level, a managed provider can reduce maintenance overhead.
 
-* **Verpex (shared/VPS example):** shared hosting or stepping up to VPS before dedicated (depending on requirements).
+* **[Verpex](https://clients.verpex.com/aff/?a_aid=refid&a_aid=69a4438e02634) (shared/VPS example):** shared hosting or stepping up to VPS before dedicated (depending on requirements).
 
 **Selection criteria (apply regardless of provider):**
 
@@ -201,10 +201,4 @@ Check:
 3. benchmark a small slice of production traffic
 4. choose the lowest-complexity option that meets your constraints
 
-```
-
-If you want, I can also:
-- tailor the README to your exact stack (WordPress vs Node/Next.js vs Laravel),
-- add a small “Decision matrix” (score-based),
-- and tighten the “Production-Ready Option” wording even further to reduce spam risk.
 ```
