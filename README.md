@@ -127,11 +127,7 @@ curl -I http://localhost
 
 This guide is provider-agnostic. If you want fewer ops tasks (patching/monitoring/backups) while still choosing the correct tenancy level, a managed provider can reduce maintenance overhead.
 
-* **Host4Geeks (managed option example):** [https://backyard.host4geeks.com/aff.php?aff=828](https://backyard.host4geeks.com/aff.php?aff=828)
-  Use case: you want a more managed experience, but still need guidance on when shared vs dedicated makes sense.
-
-* **Verpex (shared/VPS example):** [https://clients.verpex.com/aff/?a_aid=refid&a_aid=69a4438e02634](https://clients.verpex.com/aff/?a_aid=refid&a_aid=69a4438e02634)
-  Use case: shared hosting or stepping up to VPS before dedicated (depending on requirements).
+* **Verpex (shared/VPS example):** shared hosting or stepping up to VPS before dedicated (depending on requirements).
 
 **Selection criteria (apply regardless of provider):**
 
