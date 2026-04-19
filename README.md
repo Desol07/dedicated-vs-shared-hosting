@@ -1,4 +1,4 @@
-Overview (Why this matters)
+Overview
 
 “Shared hosting” and a “low-cost dedicated server” can both run a website, but they differ in **resource isolation**, **performance predictability**, **control**, and **who owns operations** (patching, hardening, monitoring). Picking the wrong model usually shows up later as slowdowns under load, limited runtime flexibility, or unexpected operational overhead.
 
